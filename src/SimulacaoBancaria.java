@@ -7,7 +7,7 @@ public class SimulacaoBancaria {
         Scanner scanner = new Scanner(System.in); 
         double saldo = 0;
         
-        boolean continuar = true;
+        
         // Loop infinito para manter o programa em execução até que o usuário decida sair
         while (true) { 
             exibirMenu();
